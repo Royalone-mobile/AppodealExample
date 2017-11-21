@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\73e9f9913dbdb511cebb32354f25ceaebf1ef652\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4215794250d5a27778c65015205df7cb5b041090\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\d902bd5fa17c8a73278a243eca5419109c4e150e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eae69842635e194f95fdd55e7fe02a7763d02839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\flurry-ads-7.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf1aa7916d81d5ce5af2070010f79a7116b3736d">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\flurry-ads-7.0.0_cba5685e173b0c6115926a51284d6a2548bd56fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\692b84974b346ed6700fa17354f87d876dd2e4cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1cf28904b8807fb3ba2381b251e0736e540e3e6a">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0185838817f406c458e2713ab973995a2b72941\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\inmobi-6.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="73ce7451ff9e5c34e2b8d56c2d790a475e72f87f">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\inmobi-6.2.3_8bc3dbebdf63d6d2d437bc49166e47713a939241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\ae576616512f0d2f432c8217eab2ea4c4978e346\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c901112e23520d894c64dcdf900ca117a79ec57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\1959895fc5cc576e48cb25009871be56078dce10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_593b40263f8480d47554d1c4a6bdddb55306f5f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\73428609898240a6bce80d312340e195ae89dfb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7805ffbe783998e5e647aa18bf4aea5d4bdf0166\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a7b37262036fe3f04bb9e0159f9382fc8f877ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\b676493ac1adf63c1a373cee977c3825697b4be6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67686c7dfae600437679b0e93c6f912a6a8a6a7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\mailru-4.6.17.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47014b19164146a3855708173a25f1e4bf9719f5">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\mailru-4.6.17_2b0f1bdc944d6a0ec59c2df78d3df42eea1fe49f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\flurry-analytics-7.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a6e2ae462c8a6db0dba6f5117bf997d86fabeb8">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\flurry-analytics-7.0.0_e64c1ef47c3a4a6aba07b876bf1daf413450b27a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\applovin-7.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7da3f00dae5abb5f4e4563ac03fd2f6a533e9e0d">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\applovin-7.3.2_e3e50dacfd5b3721a71d1d8a0b7f0aa48e70d4f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\ee3ce1d7b08cb98bd9ee2553925ddf87edb99a08\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8be5bc03e84551a9f805f189d5567739b99f4008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\a490c7e6ea8242b4c2fcb5f288ea958f1151d172\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d4c21a2ef687d30d0a6796ee59f48a76ed4f872">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a8a3a17f332c929e684871ad71753a9b71c5e179\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\unity_ads-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ebcf02d5212e0e2d4514368ce2d4bc3754a30fe">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\unity_ads-2.1.0_1496a7e31f4185f081812e6707aa68efee4f2306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\41528cad8e623018b7a423af837a95dbf48e5a38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4865b2bcf1db05656f2ee1523b2b0fe2bf18b5fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\73e9f9913dbdb511cebb32354f25ceaebf1ef652\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_5a01cbe8ba441d2cc849d7f1a5b23da1050949b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\SDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_eb452a3745ae943be736292f093b242c581467d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af699a85df57d1bc40855def934125b38f17e80d">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_381f48fac467d8c203bbbc8d0fdc2cba473f8985\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\appodeal-2.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd9a238ec1a87a81fe15ab483f3caa8725bd04">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\appodeal-2.1.4_9c3aa3ff78b257f4b4f59e21c69c54975800dc46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\0a5956799016fc6235a70d86588deb697efa9326\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e65986cb9a637b1bf005d9e6ea09792c1bd1bf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\royal\.android\build-cache\18f91bfce8e0a887c9188d940899765638c31560\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7457f9ec4268429776986f890e3df1d8b2d2d6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\startapp-3.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c088755f68cfd1c62385558f8f36276eb29e6d86">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\startapp-3.6.2_d68f6c0996a4121e9c6f8573a0b9a1b9f52b41f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_f04511cae0db5bf138901a0c68364866ab761a03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\yandex-metrica-2.73.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ba91330c168ac14ee942f7795e3f13055cdfe9d">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\yandex-metrica-2.73_27a73b2c435dbae9e317436ef94febcbb269ad45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\ogury-2.1.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2154c555f0c1f71fac84222599e48d7430c4deb9">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\ogury-2.1.15_66b303e7132ec058ec80e4749d1af869be470769\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\android-support-v7-recyclerview-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ab9cdfed741163aeb58ce8d1dbb8d68bcce68ff">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-recyclerview-23.1.1_f569c6fef17b83edbb9c1bc07a11248632df7c89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Work\appodeal-android-demo-master\app\libs\chartboost-6.6.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c0ecde1daabe405b0c0f2bcbeee39fe845b9e6f">
+        <dex dex="D:\Work\appodeal-android-demo-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\chartboost-6.6.3_b8e8106f0710f13b2888d19b4ada3c1677271de2\classes.dex" />
+    </item>
+
+</items>

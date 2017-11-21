@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mailru-4.6.17">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/mailru-4.6.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
